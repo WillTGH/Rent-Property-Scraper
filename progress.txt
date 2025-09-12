@@ -2,3 +2,4 @@ day 1 : testing out BS4 and request-html
 day 2 : prefectures secured
 day 3 : not much progress, but link to property is ok
 day 4 : scraped links to each property
+day 5 : adding multi-threaded process and changing property_links to set() to remove duplicates
