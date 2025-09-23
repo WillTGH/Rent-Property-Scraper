@@ -18,3 +18,4 @@ dependencies:
     - lxml_html_clean
     - playwright
     - tqdm
+    - openpyxl
