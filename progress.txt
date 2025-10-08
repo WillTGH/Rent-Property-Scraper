@@ -9,3 +9,4 @@ day 8   : fixing output data
 day 9   : fixing output data
 day 10  : output data fixed
 day 11  : dataframe output finished
+day 12  : async implementation

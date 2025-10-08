@@ -5,8 +5,6 @@ channels:
 dependencies:
   - python=3.11
   - pip
-  - pandas
-  - numpy
   - requests
   - lxml
   - html5lib
@@ -19,3 +17,8 @@ dependencies:
     - playwright
     - tqdm
     - openpyxl
+    - aiohttp
+    - httpx
+    - nest_asyncio
+    - pandas
+    - numpy
